@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rajat Kulkarni 👋
 
-<!--
-**rajat-kulkarni-dev/rajat-kulkarni-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Engineer with 5 years of experience building production
+systems with Java and Spring Boot. I'm currently levelling up in
+distributed systems, cloud, and full-stack development, and building
+in public.
 
-Here are some ideas to get you started:
+## 🔭 Currently building
+**TicketRush**: a high-concurrency event ticketing platform
+(Spring Boot · PostgreSQL · Redis · Kafka · React)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech
+**Languages:** Java, SQL, TypeScript (learning)
+**Backend:** Spring Boot, Spring Security, JPA/Hibernate
+**Data:** PostgreSQL, Redis
+**Tools:** Git, Docker, Linux
+
+## 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) · your_email@example.com
